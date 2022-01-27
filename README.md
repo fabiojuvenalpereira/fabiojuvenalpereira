@@ -1,10 +1,16 @@
-## Olá! Eu sou o Fabio.
-  Estudante de desenvolvimento web na [Trybe](https://betrybe.com).
-
-<div>
-  <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiojuvenalpereira&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojuvenalpereira&layout=compact&langs_count=7&theme=react" />
+<div> 
+  <h1> 𝑂𝑙𝑎́ 𝑒𝑢 𝑠𝑜𝑢 𝑜 𝐹𝑎́𝑏𝑖𝑜!</h1>
 </div>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comforter&display=swap" rel="stylesheet">
+
+Full Stack developer em formação, atualmente estudando na [Trybe](https://betrybe.com). 
+<a href="#" alt="Trybe" rel="nofollow"><img align="right" src="https://i.imgur.com/37MtfJB.png" style="max-width:100%;"></a>
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
@@ -15,6 +21,13 @@
   <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
   <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
   <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" />
+</div>
+
+  ##
+
+<div>
+  <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiojuvenalpereira&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojuvenalpereira&layout=compact&langs_count=7&theme=react" />
 </div>
 
   ##
