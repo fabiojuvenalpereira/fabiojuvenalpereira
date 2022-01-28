@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comforter&display=swap" rel="stylesheet">
 
-Full Stack developer em formação, atualmente estudando na [Trybe](https://betrybe.com). 
+Desenvolvedor Web Full Stack atualmente estudando na [Trybe](https://betrybe.com). 
 <a href="#" alt="Trybe" rel="nofollow"><img align="right" src="https://i.imgur.com/37MtfJB.png" style="max-width:100%;"></a>
 
 <br>
