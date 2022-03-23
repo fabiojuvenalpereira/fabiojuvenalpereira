@@ -13,14 +13,17 @@ Desenvolvedor Web Full Stack atualmente estudando na [Trybe](https://betrybe.com
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
-  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-  <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
-  <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
-  <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
-  <img align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" />
-  <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" />
-  <img align="center" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" />
+  <img align="center" alt="react" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/react.gif" width="50px" />
+  <img align="center" alt="html5" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/html.gif" width="50px" />
+  <img align="center" alt="css3" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/css.gif" width="40px" />
+  <img align="center" alt="javascript" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/js.gif" width="50px" />
+  <img align="center" alt="mysql" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/workbench.gif" width="50px" />
+  <img align="center" alt="mongodb" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/mongodb.gif" width="50px" />
+  <img align="center" alt="nodejs" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/nodejs.gif" width="50px" />
+  <img align="center" alt="jest" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/jest.gif" width="50px" />
+  <img align="center" alt="git" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/git.gif" width="50px" />
+  <img align="center" alt="github" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/github.gif" width="50px" />
+  <img align="center" alt="python" src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/python.gif" width="50px" />
 </div>
 
   ##
