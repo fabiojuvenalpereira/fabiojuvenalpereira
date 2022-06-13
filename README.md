@@ -20,7 +20,7 @@ Desenvolvedor Web Full Stack atualmente estudando na [Trybe](https://betrybe.com
        alt="react"
        src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/react.gif"
        width="50"
-       height="50"
+       height="45"
      />
   </a>
   <a href="https://pt.wikipedia.org/wiki/HTML5">
@@ -37,8 +37,8 @@ Desenvolvedor Web Full Stack atualmente estudando na [Trybe](https://betrybe.com
        align="center"
        alt="css3"
        src="https://github.com/fabiojuvenalpereira/fabiojuvenalpereira/blob/main/gifs/css.gif"
-       width="50"
-       height="50"
+       width="40"
+       height="53"
      />
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
