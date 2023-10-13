@@ -9,8 +9,6 @@
 
 Desenvolvedor Web Full Stack formado pela [Trybe](https://betrybe.com) :green_heart::rocket:
 
-<a href="#" alt="Trybe" rel="nofollow"><img align="right" src="https://i.imgur.com/37MtfJB.png" style="max-width:100%;"></a>
-
 <br>
 
 <div style="display: inline_block"><br>
