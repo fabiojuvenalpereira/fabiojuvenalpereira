@@ -7,10 +7,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comforter&display=swap" rel="stylesheet">
 
-Desenvolvedor Web Full Stack
+<p>🚀 Apaixonado por tecnologia, criando soluções inovadoras para a web.</p>
+<p>💻 Desenvolvedor web full stack, sempre em busca de desafios e aprendizado contínuo.</p>
+<p>☁️ Trabalhando com as melhores tecnologias de front e backend para entregar experiências incríveis.</p>
+<p>🤖 Automatizando tarefas, otimizando processos e criando aplicativos incríveis.</p>
 
 <br>
-
 <div style="display: inline_block"><br>
   <a href="https://pt-br.reactjs.org/" >
     <img
