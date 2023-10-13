@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Comforter&display=swap" rel="stylesheet">
 
-Desenvolvedor Web Full Stack formado pela [Trybe](https://betrybe.com) :green_heart::rocket:
+Desenvolvedor Web Full Stack
 
 <br>
 
